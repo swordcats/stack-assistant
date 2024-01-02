@@ -1,5 +1,0 @@
-CREATE TABLE library(
-    title text,
-    artist text,
-    PRIMARY KEY (title, artist)
-);
