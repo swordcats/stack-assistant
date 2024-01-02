@@ -1,0 +1,2 @@
+ALL_SONGS = '1i8dVkN1tDGzubHGBo6X1T'
+SMALL = '2cg2GduJCzjq2uXfVdrZET'
